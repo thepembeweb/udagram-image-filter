@@ -7,7 +7,7 @@
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-## Udagram
+## Udagram Image Filter App
 
 ![](originalimage.jpg)![](filteredimage.jpg)
 
