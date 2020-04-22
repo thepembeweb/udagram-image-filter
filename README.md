@@ -47,7 +47,7 @@ Alternatively you can view the live App URL [here](http://udagram-image-filter-d
 * Create a new environment on Elastic Beanstalk: `eb create`
 * Deploy to Elastic Beanstalk: `eb deploy`
 
-* **Website URL:** http://udagram-image-filter-dev.us-west-2.elasticbeanstalk.com/
+* **App URL:** http://udagram-image-filter-dev.us-west-2.elasticbeanstalk.com/
 
 ## Built With
 
