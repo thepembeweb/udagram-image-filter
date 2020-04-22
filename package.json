@@ -3,10 +3,30 @@
   "version": "1.0.0",
   "description": "Udagram Image Filter App",
   "main": "index.js",
+  "devDependencies": {
+    "@types/bluebird": "^3.5.27",
+    "@types/express": "^4.17.0",
+    "@types/node": "^11.13.17",
+    "ts-node-dev": "^1.0.0-pre.40",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jimp": "^0.10.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepembeweb/udagram-image-filter.git"
+  },
   "keywords": [],
-  "author": "",
-  "license": "MIT"
+  "author": "Pemberai Sweto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thepembeweb/udagram-image-filter/issues"
+  },
+  "homepage": "https://github.com/thepembeweb/udagram-image-filter#readme"
 }
