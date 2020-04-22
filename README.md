@@ -3,6 +3,7 @@
 > This project demonstrates how to deploy a static website to AWS.
 
 ![](aws-ebs.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png)
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
