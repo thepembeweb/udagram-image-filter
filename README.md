@@ -11,7 +11,7 @@
 
 ![](originalimage.jpg)![](filteredimage.jpg)
 
-Visit the app [here](http://udagram-image-filter-dev.us-west-2.elasticbeanstalk.com/)
+Visit the app [here](http://udagram-image-filter-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://raw.githubusercontent.com/thepembeweb/udagram-image-filter/develop/cheetah.jpg)
 
 ## Installation
 
@@ -45,7 +45,7 @@ Start the development server:
 $ npm run dev
 ```
 
-Alternatively you can view the live App URL [here](http://udagram-image-filter-dev.us-west-2.elasticbeanstalk.com/).
+Alternatively you can view the live App URL [here](http://udagram-image-filter-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://raw.githubusercontent.com/thepembeweb/udagram-image-filter/develop/cheetah.jpg).
 
 ### Deploying the system
 
@@ -53,7 +53,7 @@ Alternatively you can view the live App URL [here](http://udagram-image-filter-d
 * Create a new environment on Elastic Beanstalk: `eb create`
 * Deploy to Elastic Beanstalk: `eb deploy`
 
-* **App URL:** http://udagram-image-filter-dev.us-west-2.elasticbeanstalk.com/
+* **App URL:** http://udagram-image-filter-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://raw.githubusercontent.com/thepembeweb/udagram-image-filter/develop/cheetah.jpg
 
 ## Built With
 
