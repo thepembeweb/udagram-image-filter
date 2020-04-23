@@ -1,6 +1,6 @@
 ﻿# Udagram: Your Own Instagram on AWS
 
-> This project demonstrates a Image Filter app up similar to Instagram on AWS.
+> This app demonstrates image filtering similar to Instagram on AWS.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png)
 ![](aws-ebs.png)
