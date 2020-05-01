@@ -1,4 +1,4 @@
-﻿# Udagram: Your Own Instagram on AWS
+﻿# Udagram: Your Own Instagram image filter on AWS
 
 > This app demonstrates image filtering similar to Instagram on AWS.
 
