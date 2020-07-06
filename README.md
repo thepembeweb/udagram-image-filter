@@ -11,8 +11,6 @@
 
 ![](originalimage.jpg)![](filteredimage.jpg)
 
-Visit the app [here](http://udagram-image-filter-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://raw.githubusercontent.com/thepembeweb/udagram-image-filter/develop/cheetah.jpg)
-
 ## Installation
 
 ### Setup
