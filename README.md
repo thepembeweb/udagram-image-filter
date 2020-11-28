@@ -43,8 +43,6 @@ Start the development server:
 $ npm run dev
 ```
 
-Alternatively you can view a live filtered image App URL [here](http://udagram-image-filter-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://raw.githubusercontent.com/thepembeweb/udagram-image-filter/develop/cheetah.jpg).
-
 ### Deploying the system
 
 * Create a new application on Elastic Beanstalk: `eb init`
